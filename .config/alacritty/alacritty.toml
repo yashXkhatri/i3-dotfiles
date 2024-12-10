@@ -1,0 +1,9 @@
+[window]
+opacity = 0.6
+
+[font]
+normal = { family = "ComicShannsMono Nerd Font", style = "Bold" }
+size = 14
+
+[colors.primary]
+background = "#000000"
